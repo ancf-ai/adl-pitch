@@ -2,7 +2,7 @@
 ADL : 
 Structured AI programs — a text-based way to build reliable voice agents, chat systems, and automation bots
 
-bash for AI” .... 
+
 ---
 
 ## 1️⃣ The clearest category statement
